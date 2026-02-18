@@ -58,6 +58,6 @@ rm ./processed/user_logs/*ipaddr*.*
 touch inventory.txt
 ls ./processed/ >> inventory.txt
 ls ./processed/* >> inventory.txt
-###########################################
+############################################
 
 echo "Project setup is complete!"
